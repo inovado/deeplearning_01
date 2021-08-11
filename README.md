@@ -157,5 +157,3 @@ E incluso podrás aplicarlo a ti mismo o a tus amigos. La lista de películas se
 En conclusión, este es un programa de formación muy emocionante, lleno de tutoriales de intuición, ejercicios prácticos y casos de estudio del mundo real.
 
 Estamos súper entusiasmados con el Deep Learning y esperamos verte pronto en clases.
-
-Juan Gabriel, Kirill y Hadelin
